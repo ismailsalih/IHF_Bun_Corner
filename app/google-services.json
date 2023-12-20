@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483627111480",
+    "project_id": "ihf-bun-corner",
+    "storage_bucket": "ihf-bun-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483627111480:android:ff30100ad4e58c565a02cd",
+        "android_client_info": {
+          "package_name": "com.fastkites.ihfbuncorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxKmEt61urBguXUsQPOAVrkJ1Pm7hn0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
